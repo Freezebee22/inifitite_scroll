@@ -1,0 +1,172 @@
+{
+  "records": [
+    {
+      "id": "1",
+      "name": "Sanya",
+      "email": "sanyasan@gmail.com",
+      "age": "33",
+      "address": "Moscow",
+      "phone": "555-35-35"
+    },
+    {
+      "id": "2",
+      "name": "Ivan",
+      "email": "ivanov@gmail.com",
+      "age": "28",
+      "address": "Saint Petersburg",
+      "phone": "555-11-22"
+    },
+    {
+      "id": "3",
+      "name": "Maria",
+      "email": "maria@mail.ru",
+      "age": "24",
+      "address": "Kazan",
+      "phone": "555-44-55"
+    },
+    {
+      "id": "4",
+      "name": "Oleg",
+      "email": "oleg88@mail.com",
+      "age": "31",
+      "address": "Novosibirsk",
+      "phone": "555-66-77"
+    },
+    {
+      "id": "5",
+      "name": "Elena",
+      "email": "elena@example.com",
+      "age": "27",
+      "address": "Yekaterinburg",
+      "phone": "555-88-99"
+    },
+    {
+      "id": "6",
+      "name": "Dmitry",
+      "email": "dmitry@mail.ru",
+      "age": "29",
+      "address": "Nizhny Novgorod",
+      "phone": "555-22-33"
+    },
+    {
+      "id": "7",
+      "name": "Anna",
+      "email": "anna@mail.ru",
+      "age": "26",
+      "address": "Samara",
+      "phone": "555-77-88"
+    },
+    {
+      "id": "8",
+      "name": "Pavel",
+      "email": "pavel@gmail.com",
+      "age": "30",
+      "address": "Omsk",
+      "phone": "555-99-00"
+    },
+    {
+      "id": "9",
+      "name": "Irina",
+      "email": "irina@mail.ru",
+      "age": "32",
+      "address": "Rostov-on-Don",
+      "phone": "555-10-20"
+    },
+    {
+      "id": "10",
+      "name": "Sergey",
+      "email": "sergey@gmail.com",
+      "age": "34",
+      "address": "Ufa",
+      "phone": "555-30-40"
+    },
+    {
+      "id": "11",
+      "name": "Nikolay",
+      "email": "nikolay@mail.ru",
+      "age": "35",
+      "address": "Volgograd",
+      "phone": "555-55-66"
+    },
+    {
+      "id": "12",
+      "name": "Tatiana",
+      "email": "tatiana@mail.ru",
+      "age": "25",
+      "address": "Krasnoyarsk",
+      "phone": "555-12-34"
+    },
+    {
+      "id": "13",
+      "name": "Alexey",
+      "email": "alexey@gmail.com",
+      "age": "29",
+      "address": "Voronezh",
+      "phone": "555-98-76"
+    },
+    {
+      "id": "14",
+      "name": "Olga",
+      "email": "olga@mail.ru",
+      "age": "27",
+      "address": "Perm",
+      "phone": "555-43-21"
+    },
+    {
+      "id": "15",
+      "name": "Vladimir",
+      "email": "vladimir@mail.ru",
+      "age": "31",
+      "address": "Kemerovo",
+      "phone": "555-23-45"
+    },
+    {
+      "id": "16",
+      "name": "Svetlana",
+      "email": "svetlana@mail.ru",
+      "age": "28",
+      "address": "Tyumen",
+      "phone": "555-67-89"
+    },
+    {
+      "id": "17",
+      "name": "Mikhail",
+      "email": "mikhail@gmail.com",
+      "age": "33",
+      "address": "Tula",
+      "phone": "555-11-55"
+    },
+    {
+      "id": "18",
+      "name": "Irina",
+      "email": "irina89@mail.ru",
+      "age": "26",
+      "address": "Ivanovo",
+      "phone": "555-44-77"
+    },
+    {
+      "id": "19",
+      "name": "Konstantin",
+      "email": "kostya@mail.ru",
+      "age": "30",
+      "address": "Bryansk",
+      "phone": "555-77-22"
+    },
+    {
+      "id": "20",
+      "name": "Galina",
+      "email": "galina@mail.ru",
+      "age": "29",
+      "address": "Smolensk",
+      "phone": "555-66-88"
+    },
+    {
+      "id": "e020",
+      "name": "Гаррош Адский Крик",
+      "email": "qwe@qwe",
+      "age": "123",
+      "address": "sdf",
+      "phone": "555 25 255"
+    }
+  ]
+}
