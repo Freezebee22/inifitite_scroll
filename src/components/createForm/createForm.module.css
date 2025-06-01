@@ -13,3 +13,14 @@
 .button {
   padding: 8px 12px;
 }
+
+.error {
+    color: #d93025;
+    font-size: 12px;
+    margin-top: 4px;
+}
+
+.inputError {
+    border-color: #d93025;
+    background-color: #ffe6e6;
+}
